@@ -94,5 +94,5 @@ This project aims to analyze Netflix's vast content library to derive actionable
 For questions or collaboration, feel free to reach out!  
 - **Email**: [gova9632@gmail.com](mailto:gova9632@gmail.com)  
 - **GitHub**: [Govardhan S N](https://github.com/django-fir)
-- **LinkedIn**: [Govardhan](https://www.linkedin.com/in/govardhan-s-n-55b52a1ba)  
+- **LinkedIn**: [Govardhan](https://linkedin.com/in/govardhan-s-n)  
 
